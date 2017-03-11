@@ -1,0 +1,11 @@
+flake8
+pytest
+nbconvert
+jupyter_client
+ipykernel
+vincent
+geopandas
+cartopy
+gpxpy
+seawater
+mplleaflet
