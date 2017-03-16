@@ -3,9 +3,6 @@
 
 A project exploring the relationship between crime and weather in Chicago.
 
-Working demo available in:
-
-        http://crime-chicago.westeurope.cloudapp.azure.com/
 
 ### Installation and Usage
 1. Install libraries:
