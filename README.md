@@ -3,6 +3,10 @@
 
 A project exploring the relationship between crime and weather in Chicago.
 
+You can find a video demonstration here:
+
+        https://vimeo.com/205776512
+
 
 ### Installation and Usage
 1. Install libraries:
@@ -79,9 +83,7 @@ A project exploring the relationship between crime and weather in Chicago.
 
         http://localhost:3000/index.html
 
-You can find a video demonstration of our code here:
 
-        https://vimeo.com/205776512
 
 ### Acknowledgments
 The City of Chicago Data Portal for publishing their data.
