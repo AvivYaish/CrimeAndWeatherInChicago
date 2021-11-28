@@ -3,9 +3,9 @@
 
 A project exploring the relationship between crime and weather in Chicago.
 
-You can find a video demonstration here:
 
-        https://vimeo.com/205776512
+https://user-images.githubusercontent.com/12000894/143773513-5ba620b8-3bee-4437-916d-37269588ad70.mp4
+
 
 
 ### Installation and Usage
